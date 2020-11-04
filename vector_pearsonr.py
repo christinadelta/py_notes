@@ -10,7 +10,7 @@ import numpy as np
 import scipy
 from scipy import stats
 
-# define ss function (scipy has
+# define ss function (scipy has removed ss function)
 def ss(data, axis):
     return np.sum(data * data, axis=axis)
 
