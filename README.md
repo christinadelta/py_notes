@@ -1,2 +1,2 @@
 # random_notebooks
-personal notes and Jupiter notebooks 
+personal notes and simple .py scripts
